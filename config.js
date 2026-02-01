@@ -78,9 +78,9 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
+        musicUrl: "https://res.cloudinary.com/dmtuycajy/video/upload/v1769962700/LeleMusic_-_Vocea_Ta_Official_Video_Manele_VTM_p6l63m.mp3", // Music streaming URL
+        startText: "🎵 Da startu petrecerii",        // Button text to start music
+        stopText: "🔇 Stop ca ma doare urechili",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
